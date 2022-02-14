@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Maps
+type: CourseSection
 uid: e1ea2d99-f88d-f855-fe8f-532a7d8e76cc
 ---
 

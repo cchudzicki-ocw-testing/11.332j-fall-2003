@@ -3,7 +3,12 @@ content_type: resource
 description: This file contains images depicting Harvard University.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-332j-urban-design-fall-2003/e8a90d5156ecd983b10114578d0f7335_ipharvard.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ipharvard.pdf
+type: OCWFile
 uid: e8a90d51-56ec-d983-b101-14578d0f7335
 ---

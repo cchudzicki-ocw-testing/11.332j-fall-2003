@@ -4,7 +4,12 @@ description: 'Proofs for the final publication of class project -- "The Future o
   the Edge: An examination of the intersection of MIT and Cambridgeport"'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-332j-urban-design-fall-2003/d3f546f0bf61edabfaeae4f612394566_CrossingTheTracks.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: CrossingTheTracks.pdf
+type: OCWFile
 uid: d3f546f0-bf61-edab-faea-e4f612394566
 ---
