@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: grad_res.pdf
-type: OCWFile
 uid: b1446481-c196-3313-b019-97d6c1c6f1b7
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ipsecondrev.pdf
-type: OCWFile
 uid: 63e40c02-7027-4382-581d-0a3718a631ba
 ---

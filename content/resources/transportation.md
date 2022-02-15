@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: transportation.pdf
-type: OCWFile
 uid: b4a05ad1-7729-44de-b3ff-1b9dd4f4766c
 ---

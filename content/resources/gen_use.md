@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: gen_use.pdf
-type: OCWFile
 uid: 573a1a28-dc54-7721-cb21-8a338394db65
 ---

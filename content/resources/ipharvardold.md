@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ipharvardold.pdf
-type: OCWFile
 uid: dd4e7644-ff05-c743-d97e-9893712f387e
 ---

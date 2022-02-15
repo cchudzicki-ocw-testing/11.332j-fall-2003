@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: ray1.pdf
-type: OCWFile
 uid: 2356458c-175b-4931-e803-84791552165f
 ---

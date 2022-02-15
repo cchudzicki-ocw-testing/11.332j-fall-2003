@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: iphbs_suffolk_slides.pdf
-type: OCWFile
 uid: fe8b7e98-bc8d-96c6-bf4f-2a8d1e57fba5
 ---

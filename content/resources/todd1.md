@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: todd1.pdf
-type: OCWFile
 uid: 82811446-3eb3-7cd1-09d7-e17af18782d4
 ---

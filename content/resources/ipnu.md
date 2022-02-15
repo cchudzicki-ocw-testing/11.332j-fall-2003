@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ipnu.pdf
-type: OCWFile
 uid: 562e7c71-0c25-4531-7f29-73b0cf8ea29a
 ---

@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: zoning.pdf
-type: OCWFile
 uid: 09d2db3f-9095-4c63-a949-279e55ecde6f
 ---

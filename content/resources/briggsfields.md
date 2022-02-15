@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: BriggsFields.pdf
-type: OCWFile
 uid: d697c2d2-af6b-50e6-13b7-2177c6be3dd4
 ---

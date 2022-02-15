@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: TableOfContents.pdf
-type: OCWFile
 uid: 5d1421fa-ecf7-cb6e-c005-86517cbe60fc
 ---

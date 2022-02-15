@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: mitland.pdf
-type: OCWFile
 uid: 0511c979-22b7-facb-4582-aa624ca01b0b
 ---

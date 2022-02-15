@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Approach.pdf
-type: OCWFile
 uid: 17b6fa2a-79a5-843b-92cd-0103c97c104d
 ---

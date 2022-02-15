@@ -12,6 +12,5 @@ parent_title: Calendar
 parent_type: CourseSection
 resourcetype: Image
 title: 11332j_calendar.gif
-type: OCWImage
 uid: 76614280-ddb0-e864-6476-f086288b584d
 ---

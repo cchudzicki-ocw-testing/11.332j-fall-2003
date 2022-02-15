@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: contextcamb.pdf
-type: OCWFile
 uid: 3c93d995-5719-0303-7db9-af267ad4833e
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: eric.pdf
-type: OCWFile
 uid: 154aafd0-079e-b2e2-9a6d-a876130b0abd
 ---

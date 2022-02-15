@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: context.pdf
-type: OCWFile
 uid: 35fad060-b810-22d6-80b0-d6f1122d6b9f
 ---

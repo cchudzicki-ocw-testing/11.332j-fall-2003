@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: nonres_use.pdf
-type: OCWFile
 uid: 3d96dd6e-320e-fe87-5cb4-918a8aaa82c1
 ---

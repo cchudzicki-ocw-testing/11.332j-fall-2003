@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: conditions.pdf
-type: OCWFile
 uid: 6d259e21-71e5-d3ed-6741-8fb84d3ac443
 ---

@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: resid_use.pdf
-type: OCWFile
 uid: 6621dae6-fa43-f024-0eb6-e3eb36b6a751
 ---

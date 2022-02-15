@@ -8,6 +8,5 @@ parent_title: Maps
 parent_type: CourseSection
 resourcetype: Document
 title: ortho.pdf
-type: OCWFile
 uid: 77a26e12-763b-4865-2d12-7a1aae24fe35
 ---

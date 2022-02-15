@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: MITCasaSuCasa.pdf
-type: OCWFile
 uid: e31bece3-6db5-c23f-5a52-2b69cd031d91
 ---

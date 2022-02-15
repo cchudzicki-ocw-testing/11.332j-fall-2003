@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: CambridgeStreets.pdf
-type: OCWFile
 uid: a5f95587-160e-92df-65c6-14236fbe1124
 ---

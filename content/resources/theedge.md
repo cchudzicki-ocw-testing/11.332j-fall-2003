@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: TheEdge.pdf
-type: OCWFile
 uid: 9ba1a3fa-ca39-b1ee-9d70-9cce9e1bb1bb
 ---

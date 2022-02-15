@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ipbcbu.pdf
-type: OCWFile
 uid: d3319747-6c6b-c38f-5d68-c53825c4fcff
 ---

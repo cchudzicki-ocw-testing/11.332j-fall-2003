@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: ipsession3.pdf
-type: OCWFile
 uid: ec4d789b-6c2e-1dbc-2c2b-03961472ec86
 ---

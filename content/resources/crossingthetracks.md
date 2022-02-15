@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: CrossingTheTracks.pdf
-type: OCWFile
 uid: d3f546f0-bf61-edab-faea-e4f612394566
 ---

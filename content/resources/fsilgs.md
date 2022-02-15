@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: FSILGs.pdf
-type: OCWFile
 uid: b8781ad7-8e61-80fd-92e3-b88b65a04a76
 ---
