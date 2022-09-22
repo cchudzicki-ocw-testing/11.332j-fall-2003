@@ -6,6 +6,7 @@ file: /courses/11-332j-urban-design-fall-2003/5d1421faecf7cb6ec00586517cbe60fc_T
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
